@@ -1,7 +1,7 @@
 """
 CMPS 2200  Recitation 1
 """
-
+#Srikanya Balaji Garuda
 ### the only imports needed are here
 import tabulate
 import time
@@ -116,3 +116,5 @@ def print_results(results):
         headers=['n', 'linear', 'binary'],
         floatfmt=".3f",
         tablefmt="github"))
+
+print_results(compare_search())
