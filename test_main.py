@@ -19,3 +19,5 @@ def test_binary_search_one():
 def test_binary_search_two():
 	assert binary_search([1,2,3,4,5], 2) == 1
 	assert binary_search([], 2) == -1
+
+print()
