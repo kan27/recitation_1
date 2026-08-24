@@ -29,7 +29,7 @@ The best case input value of key for linear search is the first value in the lis
 
 - **9)** Do the theoretical running times match your empirical results?
 
-The theoretical run times do match my empirical results since as n increases, linear search becomes increasingly longer matching with it's run time of $O(n)$, whereas binary search remains fast as input size increases, matching with it's run time of $O(\log_2(n))$
+The theoretical run times do match my empirical results since as $n$ increases, linear search becomes increasingly longer matching with it's run time of $O(n)$, whereas binary search remains fast as input size increases, matching with it's run time of $O(\log_2(n))$
 
 - **10a)** What is worst-case complexity of searching a list of $n$ elements $k$ times using linear search? 
 
