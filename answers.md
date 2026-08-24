@@ -37,7 +37,7 @@ $O(nk)$
 
 - **10b)** For binary search? 
 
-$O(\log_2(n)*k)$
+$O(k\log_2(n))$
 
 - **10c)** For what values of $k$ is it more efficient to first sort and then use binary search versus just using linear search without sorting? You may assume that your sorting algorithm runs in $O(n \lg n)$ time.
 $k > \frac{nlog_2(n)}{n-log_2(n)}$
